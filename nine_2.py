@@ -24,7 +24,7 @@ class Screen(object):
 s = Screen()
 
 s.width = 1024
-s.width(10)
+#s.width(10)
 s.height = 768
 
 print("resolution = ", s.resolution)
